@@ -18,7 +18,6 @@
    border-top: 3px solid black;
    display: flex;
    flex-flow: center;
-   
    justify-content: center;
    font-size: 30px;
    padding: 30px;
@@ -46,5 +45,5 @@
 }
 
 .ribbon {
-   
+   border-block-end-width: 0pc;
 }
